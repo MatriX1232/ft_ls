@@ -53,3 +53,7 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# ft_ls build artifacts
+/obj/
+/ft_ls
